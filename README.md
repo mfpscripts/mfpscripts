@@ -1,16 +1,18 @@
 ### Hi there 👋
 
-<!--
-**mfpscripts/mfpscripts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+**mfpscripts/MFPSCRIPTS** is a ✨ _special_ ✨ FiveM Scriptingservice for your GTA 5 Server..
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+What we offer:
+
+- 🔭 MFP_ATM
+- 🌱 MFP_IllegalDealer
+- 👯 MFP_Extremesporrshop
+- 🤔 MFP_Moneywash
+- 💬 MFP_Scrapyard
+- 📫 MFP_Weaponshop
+
+Stay in conact with us:
+- 😄 Mail: conatct@mfpscripts.com
+- ⚡ Discord: discord.mfpscripts.com
+
